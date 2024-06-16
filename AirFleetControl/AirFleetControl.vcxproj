@@ -130,7 +130,15 @@
     <Image Include="TableView.png" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Flight.cpp" />
+    <ClCompile Include="Plane.cpp" />
     <ClCompile Include="Program.cpp" />
+    <ClCompile Include="Destination.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Flight.h" />
+    <ClInclude Include="Plane.h" />
+    <ClInclude Include="Destination.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

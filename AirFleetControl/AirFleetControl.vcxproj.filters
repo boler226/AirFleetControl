@@ -18,5 +18,25 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Program.cpp" />
+    <ClCompile Include="Flight.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Destination.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Plane.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Flight.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Destination.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Plane.h">
+      <Filter>include</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
