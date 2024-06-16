@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AirFleetControl", "AirFleetControl\AirFleetControl.vcxproj", "{0AAB927F-DA99-41BA-B615-45F694C7CBFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AAB927F-DA99-41BA-B615-45F694C7CBFC}.Debug|x64.ActiveCfg = Debug|x64
+		{0AAB927F-DA99-41BA-B615-45F694C7CBFC}.Debug|x64.Build.0 = Debug|x64
+		{0AAB927F-DA99-41BA-B615-45F694C7CBFC}.Debug|x86.ActiveCfg = Debug|Win32
+		{0AAB927F-DA99-41BA-B615-45F694C7CBFC}.Debug|x86.Build.0 = Debug|Win32
+		{0AAB927F-DA99-41BA-B615-45F694C7CBFC}.Release|x64.ActiveCfg = Release|x64
+		{0AAB927F-DA99-41BA-B615-45F694C7CBFC}.Release|x64.Build.0 = Release|x64
+		{0AAB927F-DA99-41BA-B615-45F694C7CBFC}.Release|x86.ActiveCfg = Release|Win32
+		{0AAB927F-DA99-41BA-B615-45F694C7CBFC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1806891F-17C6-4D77-920E-50B74A9BEDF0}
+	EndGlobalSection
+EndGlobal
