@@ -32,5 +32,7 @@ public:
 	Flight(Flight&& other) noexcept;	// Конструктор переміщення
 	~Flight();	// Деструктор
 
+
+	static void showInfo();
 };
 

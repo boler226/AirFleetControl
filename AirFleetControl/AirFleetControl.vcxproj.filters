@@ -10,6 +10,9 @@
     <Filter Include="docs">
       <UniqueIdentifier>{16617239-ddf2-4bb9-9f51-9860a5f73cae}</UniqueIdentifier>
     </Filter>
+    <Filter Include="interface">
+      <UniqueIdentifier>{c7df2896-02ed-4eee-b0f9-e7f8b11d8e41}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Image Include="TableView.png">
@@ -26,6 +29,12 @@
     </ClCompile>
     <ClCompile Include="Plane.cpp">
       <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Country.cpp">
+      <Filter>interface</Filter>
+    </ClCompile>
+    <ClCompile Include="City.cpp">
+      <Filter>interface</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

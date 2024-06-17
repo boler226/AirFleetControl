@@ -130,6 +130,8 @@
     <Image Include="TableView.png" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="City.cpp" />
+    <ClCompile Include="Country.cpp" />
     <ClCompile Include="Flight.cpp" />
     <ClCompile Include="Plane.cpp" />
     <ClCompile Include="Program.cpp" />
