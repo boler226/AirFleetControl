@@ -24,16 +24,10 @@
     <ClCompile Include="Flight.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="Destination.cpp">
-      <Filter>src</Filter>
-    </ClCompile>
     <ClCompile Include="Plane.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="Country.cpp">
-      <Filter>interface</Filter>
-    </ClCompile>
-    <ClCompile Include="City.cpp">
+    <ClCompile Include="Destination.cpp">
       <Filter>interface</Filter>
     </ClCompile>
   </ItemGroup>
@@ -41,11 +35,11 @@
     <ClInclude Include="Flight.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="Destination.h">
-      <Filter>include</Filter>
-    </ClInclude>
     <ClInclude Include="Plane.h">
       <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Destination.h">
+      <Filter>interface</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
